@@ -1,17 +1,7 @@
-# Verify Zero-Knowledge Proofs with Succinct SP1
+# Verify Zero Knowledge Proofs with Succinct SP1
 
 <img src="https://app.ashbyhq.com/api/images/org-theme-wordmark/b045220d-46fa-4dd2-9364-ea30bc7bb174/81de4234-5c9f-40cf-8566-4324fd3a42f4.png" width="700"/>
-
-## About Succinct
-Succinct is creating a decentralized network that secures blockchain applications with cryptographic truth, offering reliable and cost-effective infrastructure for zero-knowledge proof systems.
-* [Twitter](https://x.com/SuccinctLabs)
-* [Website](https://succinct.xyz/)
-* [Discord](https://discord.gg/succinctlabs)
-* [Docs](https://docs.succinct.xyz/)
-* [Github](https://github.com/succinctlabs)
-
 ## About SP1
-SP1 is a high-performance virtual machine (zkVM) that uses zero-knowledge proofs (ZKPs) to verify that programs are executing correctly. It allows you to easily implement ZKPs using code written in the Rust. By simplifying the complexity of traditional ZKP systems, SP1 provides secure and fast solutions in various blockchain applications such as rollups, bridges, and light clients. As an entirely open-source platform, SP1 is trusted by leading blockchain projects and undergoes regular security audits to ensure its reliability.
 
 For more about SP1, check [here](https://docs.succinct.xyz/introduction.html).
 
@@ -87,5 +77,8 @@ RUST_LOG=info cargo run --release -- --prove
 cargo prove --version
 ```
 ![2](https://github.com/user-attachments/assets/c5a7d96a-779d-4669-b768-8f46906469ef)
+
+#Join Diskusi channel
+https://t.me/airdrop_node
 
 
