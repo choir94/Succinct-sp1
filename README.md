@@ -22,6 +22,7 @@ sudo apt install cmake pkg-config libssl-dev build-essential -y
 ### Rust and Cargo Installation
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
 source $HOME/.cargo/env
 ```
 
