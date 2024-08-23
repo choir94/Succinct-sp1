@@ -79,7 +79,7 @@ cargo prove --version
 ```
 ![2](https://github.com/user-attachments/assets/c5a7d96a-779d-4669-b768-8f46906469ef)
 
-#Join Diskusi channel
-https://t.me/airdrop_node
+#Join channel
+https://t.me/ZonaAirdr0p
 
 
